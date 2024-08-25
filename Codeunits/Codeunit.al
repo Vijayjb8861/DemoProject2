@@ -15,5 +15,5 @@ codeunit 50100 MyUDP_1
 
 
     var
-        myInt: Integer;
+        myInt,myint2: Integer;
 }
